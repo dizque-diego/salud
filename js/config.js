@@ -28,7 +28,7 @@ const CONFIG = {
     servicios: [
         {
             nombre: "Holter",
-            precio: 150000, 
+            precio: 400000, 
             duracion: "24 horas", 
             indicaciones: "...", 
             disponible: true
@@ -42,7 +42,7 @@ const CONFIG = {
         },
         {
             nombre: "MAPA", 
-            precio: 40000, 
+            precio: 390000, 
             duracion: "24 horas", 
             indicaciones: "...", 
             disponible: false
